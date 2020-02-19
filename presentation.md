@@ -38,7 +38,7 @@ What is the name of the above curve?
 
 1. Koch Curve
 2. Klein Curve
-3. Guass Curve
+3. Gauss Curve
 4. Jordan Curve
 5. Hilbert Curve
 6. Cantor Curve
@@ -59,6 +59,7 @@ Which value equals this infinite sum?
 6. `\(\frac{\pi}{6}\)`
 7. `\(\frac{\pi}{7}\)`
 8. `\(\frac{\pi}{8}\)`
+9. `\(\frac{\pi}{9}\)`
 
 ---
 
@@ -157,6 +158,24 @@ What is the smallest perfect number?
 
 ---
 
+## 10. Odd
+
+> You are at a house and know that the neighbor has two children. You see a girl playing in the garden.
+
+What is the chance that the other child is also a girl?
+
+1. `\(\frac{1}{1}\)`
+2. `\(\frac{1}{2}\)`
+3. `\(\frac{1}{3}\)`
+4. `\(\frac{1}{4}\)`
+5. `\(\frac{1}{5}\)`
+6. `\(\frac{1}{6}\)`
+7. `\(\frac{1}{7}\)`
+8. `\(\frac{1}{8}\)`
+9. `\(\frac{1}{9}\)`
+
+---
+
 # 12. Monster Group
 
 The monster group is the largest of the sporadic simple finite groups.
@@ -206,7 +225,7 @@ What is the name of the above curve?
 
 1. **Koch Curve**
 2. Klein Curve
-3. Guass Curve
+3. Gauss Curve
 4. Jordan Curve
 5. Hilbert Curve
 6. Cantor Curve
@@ -231,6 +250,7 @@ Which value equals this infinite sum?
 6. `\(\frac{\pi}{6}\)`
 7. `\(\frac{\pi}{7}\)`
 8. `\(\frac{\pi}{8}\)`
+9. `\(\frac{\pi}{9}\)`
 
 ???
 
@@ -350,6 +370,24 @@ What is the smallest perfect number?
 Even perfect numbers are related to Mersenne Primes, which sometimes make the news.
 
 It is unknown if there exist odd perfect numbers.
+
+---
+
+## 10. Odd
+
+> You are at a house and know that the neighbor has two children. You see a girl playing in the garden.
+
+What is the chance that the other child is also a girl?
+
+1. `\(\frac{1}{1}\)`
+2. `\(\frac{1}{2}\)`
+3. `\(\quad\frac{1}{3}\)`
+4. `\(\frac{1}{4}\)`
+5. `\(\frac{1}{5}\)`
+6. `\(\frac{1}{6}\)`
+7. `\(\frac{1}{7}\)`
+8. `\(\frac{1}{8}\)`
+9. `\(\frac{1}{9}\)`
 
 ---
 
