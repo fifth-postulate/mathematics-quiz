@@ -167,6 +167,26 @@ What is the smallest perfect number?
 
 ---
 
+## 9. McNugget Number
+
+A *McNugget Number* is
+
+> a number that can be formed by combining "standard" McNugget orders of 6, 9, 20
+
+What is the biggest **non**-McNugget number?
+
+1. 39
+2. 40
+3. 41
+4. 42
+5. 43
+6. 44
+7. 45
+8. 46
+9. 47
+
+---
+
 ## 10. Odd
 
 > You are at a house and know that the neighbor has two children. You see a girl playing in the garden.
@@ -185,7 +205,27 @@ What is the chance that the other child is also a girl?
 
 ---
 
-# 12. Monster Group
+## 11. Archimedian Solids
+
+The *Archimedian solids* are
+
+> the convex uniform polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms. 
+
+There are 5 Platonic solids. How many Archimedian solids are there?
+
+1. 9
+2. 10
+3. 11
+4. 12
+5. 13
+6. 14
+7. 15
+8. 16
+9. 17
+
+---
+
+## 12. Monster Group
 
 The monster group is the largest of the sporadic simple finite groups.
 
@@ -391,6 +431,30 @@ It is unknown if there exist odd perfect numbers.
 
 ---
 
+## 9. McNugget Number
+
+A *McNugget Number* is
+
+> a number that can be formed by combining "standard" McNugget orders of 6, 9, 20
+
+What is the biggest **non**-McNugget number?
+
+1. 39
+2. 40
+3. 41
+4. 42
+5. **43**
+6. 44
+7. 45
+8. 46
+9. 47
+
+???
+
+McNugget numbers are a specialisation of the *coin problem* reported by Frobenius.
+
+---
+
 ## 10. Odd
 
 > You are at a house and know that the neighbor has two children. You see a girl playing in the garden.
@@ -409,7 +473,33 @@ What is the chance that the other child is also a girl?
 
 ---
 
-# 12. Monster Group
+## 11. Archimedian Solids
+
+The *Archimedian solids* are
+
+> the convex uniform polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms. 
+
+There are 5 Platonic solids. How many Archimedian solids are there?
+
+1. 9
+2. 10
+3. 11
+4. 12
+5. *13*
+6. 14
+7. 15
+8. 16
+9. 17
+
+???
+
+You also get a point if you answered 7, for 15 Archimedean solid. Two of the solids differ from their mirror image.
+
+The reason prims and anti-prisms do not count is because there are infinite of them.
+
+---
+
+## 12. Monster Group
 
 The monster group is the largest of the sporadic simple finite groups.
 
