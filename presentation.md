@@ -44,6 +44,23 @@ What is the name of the above curve?
 6. Cantor Curve
 
 ---
+
+## 3. Sum
+
+$$1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \frac{1}{9} + \ldots$$
+
+Which value equals this infinite sum?
+
+1. `\(\frac{\pi}{1}\)`
+2. `\(\frac{\pi}{2}\)`
+3. `\(\frac{\pi}{3}\)`
+4. `\(\frac{\pi}{4}\)`
+5. `\(\frac{\pi}{5}\)`
+6. `\(\frac{\pi}{6}\)`
+7. `\(\frac{\pi}{7}\)`
+8. `\(\frac{\pi}{8}\)`
+
+---
 class: middle, center
 
 # Answers
@@ -94,3 +111,24 @@ What is the name of the above curve?
 ???
 
 The Koch Curve has an infinite perimiter, but "encloses" finite area. It has been studied by Koch because it is a *continous* curve, which is nowhere *differentiable*.
+
+---
+
+## 3. Sum
+
+$$1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \frac{1}{9} + \ldots$$
+
+Which value equals this infinite sum?
+
+1. `\(\frac{\pi}{1}\)`
+2. `\(\frac{\pi}{2}\)`
+3. `\(\frac{\pi}{3}\)`
+4. `\(\quad\frac{\pi}{4}\)`
+5. `\(\frac{\pi}{5}\)`
+6. `\(\frac{\pi}{6}\)`
+7. `\(\frac{\pi}{7}\)`
+8. `\(\frac{\pi}{8}\)`
+
+???
+
+This can be seen by Fourier analysing `\(f:[0,\pi] \rightarrow [-\frac{pi}{2},\frac{pi}{2}]: x \mapsto \frac{\frac{\pi}{2}-x}{2}\)`
