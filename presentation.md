@@ -115,6 +115,28 @@ How many distinct wallpaper groups are there?
 
 ---
 
+# 7. Euler Characteristic
+
+The *Euler characteristic* is
+
+> a topological invariant, a number that describes a topological space's shape or structure regardless of the way it is bent.
+>
+> For polyhedra it equals `\(V - E + F\)`.
+
+What is the Euler characteristic of the sphere?
+
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+
+---
+
 # 12. Monster Group
 
 The monster group is the largest of the sporadic simple finite groups.
@@ -257,6 +279,31 @@ How many distinct wallpaper groups are there?
 8. 16
 9. **17**
 
+---
+
+# 7. Euler Characteristic
+
+The *Euler characteristic* is
+
+> a topological invariant, a number that describes a topological space's shape or structure regardless of the way it is bent.
+>
+> For polyhedra it equals `\(V - E + F\)`.
+
+What is the Euler characteristic of the sphere?
+
+1. 1
+2. **2**
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+
+???
+
+The Euler charactertic is `\(g+2\)` where `\(g\)` is the *genus* of a manifold, i.e. the number of holes.
 
 ---
 
