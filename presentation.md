@@ -29,6 +29,21 @@ What are the names for `\(X, Y, f(X), f^{-1}(S)\)` for `\(S\subseteq Y\)`?
 8. source, target, image, inverse-image
 
 ---
+
+## 2. Curve
+
+.center[![What is the name of this curve?](image/question_02.png)]
+
+What is the name of the above curve?
+
+1. Koch Curve
+2. Klein Curve
+3. Guass Curve
+4. Jordan Curve
+5. Hilbert Curve
+6. Cantor Curve
+
+---
 class: middle, center
 
 # Answers
@@ -61,3 +76,21 @@ What are the names for `\(X, Y, f(X), f^{-1}(S)\)` for `\(S\subseteq Y\)`?
 7. source, codomain, image, pre-image
 8. source, target, image, inverse-image
 
+---
+
+## 2. Curve
+
+.center[![What is the name of this curve?](image/question_02.png)]
+
+What is the name of the above curve?
+
+1. **Koch Curve**
+2. Klein Curve
+3. Guass Curve
+4. Jordan Curve
+5. Hilbert Curve
+6. Cantor Curve
+
+???
+
+The Koch Curve has an infinite perimiter, but "encloses" finite area. It has been studied by Koch because it is a *continous* curve, which is nowhere *differentiable*.
