@@ -61,6 +61,14 @@ Which value equals this infinite sum?
 8. `\(\frac{\pi}{8}\)`
 
 ---
+
+# 12. Monster Group
+
+The monster group is the largest of the sporadic simple finite groups.
+
+How many digits does it take to write down the order (size) of the monster group?
+
+---
 class: middle, center
 
 # Answers
@@ -132,3 +140,19 @@ Which value equals this infinite sum?
 ???
 
 This can be seen by Fourier analysing `\(f:[0,\pi] \rightarrow [-\frac{pi}{2},\frac{pi}{2}]: x \mapsto \frac{\frac{\pi}{2}-x}{2}\)`
+
+---
+
+# 12. Monster Group
+
+The monster group is the largest of the sporadic simple finite groups.
+
+How many digits does it take to write down the order (size) of the monster group?
+
+The order is
+
+```plain
+808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000
+```
+
+which has 54 digits
