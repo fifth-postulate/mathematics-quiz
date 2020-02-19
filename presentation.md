@@ -27,6 +27,7 @@ What are the names for `\(X, Y, f(X), f^{-1}(S)\)` for `\(S\subseteq Y\)`?
 6. source, target, needle, haystack
 7. source, codomain, image, pre-image
 8. source, target, image, inverse-image
+9. alice, beth, coraline, daphne
 
 ---
 
@@ -42,6 +43,9 @@ What is the name of the above curve?
 4. Jordan Curve
 5. Hilbert Curve
 6. Cantor Curve
+7. Julia Curve
+8. Mandelbrot Curve
+9. Church Curve
 
 ---
 
@@ -72,7 +76,12 @@ What is the name of this theorem?
 1. Bolzano's theorem.
 2. Intermediate value theorem.
 3. Mean value theorem.
-4. Rolle theorem.
+4. Rolle's theorem.
+5. Weierstrass' theorem.
+6. Cantor's theorem.
+7. Fundamental theorem of calculus
+8. Cauchy's theorem.
+9. Fourier's theorem.
 
 ---
 
@@ -214,6 +223,7 @@ What are the names for `\(X, Y, f(X), f^{-1}(S)\)` for `\(S\subseteq Y\)`?
 6. source, target, needle, haystack
 7. source, codomain, image, pre-image
 8. source, target, image, inverse-image
+9. alice, beth, caroline, daphne
 
 ---
 
@@ -229,6 +239,9 @@ What is the name of the above curve?
 4. Jordan Curve
 5. Hilbert Curve
 6. Cantor Curve
+7. Julia Curve
+8. Mandelbrot Curve
+9. Church Curve
 
 ???
 
@@ -268,6 +281,11 @@ What is the name of this theorem?
 2. Intermediate value theorem.
 3. Mean value theorem.
 4. Rolle theorem.
+5. Weierstrass' theorem.
+6. Cantor's theorem.
+7. Fundamental theorem of calculus
+8. Cauchy's theorem.
+9. Fourier's theorem.
 
 ???
 
