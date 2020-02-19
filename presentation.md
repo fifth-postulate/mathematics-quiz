@@ -115,7 +115,7 @@ How many distinct wallpaper groups are there?
 
 ---
 
-# 7. Euler Characteristic
+## 7. Euler Characteristic
 
 The *Euler characteristic* is
 
@@ -124,6 +124,26 @@ The *Euler characteristic* is
 > For polyhedra it equals `\(V - E + F\)`.
 
 What is the Euler characteristic of the sphere?
+
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+
+---
+
+## 8. Perfect Number
+
+A *perfect number* is
+
+> a natural number that is equal to the sum of its divisors, excluding the number itself.
+
+What is the smallest perfect number?
 
 1. 1
 2. 2
@@ -304,6 +324,32 @@ What is the Euler characteristic of the sphere?
 ???
 
 The Euler charactertic is `\(g+2\)` where `\(g\)` is the *genus* of a manifold, i.e. the number of holes.
+
+---
+
+## 8. Perfect Number
+
+A *perfect number* is
+
+> a natural number that is equal to the sum of its divisors, excluding the number itself.
+
+What is the smallest perfect number?
+
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. **6**
+7. 7
+8. 8
+9. 9
+
+???
+
+Even perfect numbers are related to Mersenne Primes, which sometimes make the news.
+
+It is unknown if there exist odd perfect numbers.
 
 ---
 
