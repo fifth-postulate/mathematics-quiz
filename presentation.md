@@ -23,7 +23,7 @@ What are the names for `\(X, Y, f(X), f^{-1}(S)\)` for `\(S\subseteq Y\)`?
 2. domain, target, needle, haystack
 3. domain, codomain, image, pre-image
 4. domain, target, image, inverse-image
-5. source, subdomain, image, invers-image
+5. source, subdomain, image, inverse-image
 6. source, target, needle, haystack
 7. source, codomain, image, pre-image
 8. source, target, image, inverse-image
@@ -259,7 +259,7 @@ What are the names for `\(X, Y, f(X), f^{-1}(S)\)` for `\(S\subseteq Y\)`?
 2. domain, target, needle, haystack
 3. **domain, codomain, image, pre-image**
 4. domain, target, image, inverse-image
-5. source, subdomain, image, invers-image
+5. source, subdomain, image, inverse-image
 6. source, target, needle, haystack
 7. source, codomain, image, pre-image
 8. source, target, image, inverse-image
@@ -485,7 +485,7 @@ There are 5 Platonic solids. How many Archimedian solids are there?
 2. 10
 3. 11
 4. 12
-5. *13*
+5. **13**
 6. 14
 7. 15
 8. 16
